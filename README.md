@@ -1,19 +1,15 @@
-### Olá, eu sou o Edu!
+# Olá, eu sou o Edu!
 
-<!--
-**Edu021/edu021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline-block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu021&layout=compact&theme=radical">
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 🎓 Graduando Engenharia de Software no Centro Universitário da Católica SC em Joinville
+- 🎓 Graduando Engenharia de Software no Centro Universitário da Católica SC em Joinville
+- 🌱 Atualmente aprendendo C#
+- 👯 Estou buscando colaborar em projetos interessantes.
+- 🤔 Estou procurando ajuda com documentação de projetos.
+- 💬 Me pergunte sobre segurança!
+- ⚡ Fato curioso: Aprendi a tocar guitarra totalmente sozinho.
