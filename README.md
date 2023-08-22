@@ -1,7 +1,7 @@
 # Olá, eu sou o Edu!
 
 <div style="display: inline-block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu021&show_icons=true&theme=radical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu021&layout=compact&theme=radical">
 </div>
 
