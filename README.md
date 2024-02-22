@@ -1,11 +1,11 @@
 # Olá, eu sou o Eduardo!
 
-- 🎓 Graduando Engenharia de Software no Centro Universitário da Católica SC em Joinville (2º período).
+- 🎓 Graduando Engenharia de Software no Centro Universitário da Católica SC em Joinville (3º período).
 - 🎓 Formado em Desenvolvimento de Software no SENAI de Joinville.
 - 🌱 Atualmente aprendendo C#
-- 🏗️ Atualmente desenvolvendo um cardápio digital para delivery.
+- 🏗️ Atualmente bot em python.
 - 🤔 Estou procurando ajuda com documentação de projetos.
-- ⚡ Fato curioso: Aprendi a tocar guitarra totalmente sozinho.
+- ⚡ Fato curioso: Aprendi a tocar guitarra sozinho.
 
 ### Minhas habilidades: 
 <div style="display: inline-block">
