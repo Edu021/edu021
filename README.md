@@ -3,7 +3,6 @@
 - 🎓 Graduando Engenharia de Software no Centro Universitário da Católica SC em Joinville (3º período).
 - 🎓 Formado em Desenvolvimento de Software no SENAI de Joinville.
 - 🌱 Atualmente aprendendo C#
-- 🏗️ Atualmente bot em python.
 - 🤔 Estou procurando ajuda com documentação de projetos.
 - ⚡ Fato curioso: Aprendi a tocar guitarra sozinho.
 
