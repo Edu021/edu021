@@ -1,6 +1,6 @@
 # Olá, eu sou o Eduardo!
 
-- 🎓 Graduando Engenharia de Software no Centro Universitário da Católica SC em Joinville (4º período).
+- 🎓 Graduando Engenharia de Software no Centro Universitário da Católica SC em Joinville (5º período).
 - 🎓 Formado em Desenvolvimento de Software no SENAI de Joinville.
 - 🌱 Atualmente Desenvolvedor web Full Stack
 - 🤔 Estou procurando ajuda com documentação de projetos.
